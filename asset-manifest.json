@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tour-Plan-React/static/css/main.469c7935.css",
+    "main.js": "/Tour-Plan-React/static/js/main.7618f0ab.js",
+    "index.html": "/Tour-Plan-React/index.html",
+    "main.469c7935.css.map": "/Tour-Plan-React/static/css/main.469c7935.css.map",
+    "main.7618f0ab.js.map": "/Tour-Plan-React/static/js/main.7618f0ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469c7935.css",
+    "static/js/main.7618f0ab.js"
+  ]
+}
